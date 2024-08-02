@@ -11,7 +11,7 @@ MATLAB scripts are used for pre-processing, evaluation and plotting. All the scr
 
 ### Details
 
-Algorithm, flowcharts, methodologies, graphs and final results are all available in the GA.ppt.
+The accompanying presentation offers a clear and accessible overview of the project, complementing the published paper with detailed explanations, visuals, and results.
 
 ### Note
 The project was done in 2015-16 so it is no longer supported for improvement by the author.
