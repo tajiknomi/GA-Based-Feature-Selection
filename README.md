@@ -15,3 +15,7 @@ The accompanying presentation offers a clear and accessible overview of the proj
 
 ### Note
 The project was done in 2015-16 so it is no longer supported for improvement by the author.
+
+### Contribution
+
+Dr Atiq-Rehman-Jadoon, [Dr Waleed Khan](https://www.linkedin.com/in/khanwaleed247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
