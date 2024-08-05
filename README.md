@@ -11,7 +11,7 @@ MATLAB scripts are used for pre-processing, evaluation and plotting. All the scr
 
 ### Details
 
-The accompanying presentation offers a clear and accessible overview of the project, complementing the [published paper(https://link.springer.com/chapter/10.1007/978-3-319-41009-8_25) with detailed explanations, visuals, and results.
+The accompanying presentation offers a clear and accessible overview of the project, complementing the [published paper](https://link.springer.com/chapter/10.1007/978-3-319-41009-8_25) with detailed explanations, visuals, and results.
 
 ### Note
 The project was done in 2015-16 so it is no longer supported for improvement by the author.
